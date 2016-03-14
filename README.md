@@ -1,6 +1,19 @@
-# cuckoo
+# Cuckoo - E2E Javascript Web App
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.3.0.
+Cuckoo is an idea to combine multiple Javascript libraries into a fully working webmap app capable of performing some basic spatial function, e.g. displaying layers, retrieve spatial data from server, etc
+
+Some components to get this project working:
+- MEAN Stack, implemented using [Daftmonk's Angular Fullstack](https://github.com/angular-fullstack/generator-angular-fullstack)
+- Tombatossals' [Angular Leaflet](https://github.com/tombatossals/angular-leaflet-directive)
+- [ESRI Leaflet](http://esri.github.io/esri-leaflet/)
+- [TurfJS](turfjs.org)
+- [Leaflet Routing Machine](http://www.liedman.net/leaflet-routing-machine/)
+- [D3JS](d3js.org)
+
+
+## Why Javascript?
+Because we *can*
+
 
 ## Getting Started
 
